@@ -3,3 +3,10 @@
 3. mkdir: Yeni klasor olusturur.
 4. echo: Ekrana metin basar veya dosyaya metin yazar.
 5. cat: Dosya icerigini terminalde goruntuler.
+
+--- Hafta 2 Git Komutlari ---
+1. git init: Yeni Git deposu baslatir.
+2. git status: Calisma dizini ve staging durumunu gosterir.
+3. git add: Degisiklikleri staging alanina alir.
+4. git commit: Degisiklikleri yerel depoya kaydeder.
+5. git log: Commit gecmisini listeler.
