@@ -1,0 +1,5 @@
+1. cd: Dizin degistirmek icin kullanilir.
+2. ls: Bulunulan dizindeki dosyalari listeler.
+3. mkdir: Yeni klasor olusturur.
+4. echo: Ekrana metin basar veya dosyaya metin yazar.
+5. cat: Dosya icerigini terminalde goruntuler.
